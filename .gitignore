@@ -1,6 +1,1 @@
-src/.ipynb_checkpoints
-src/ucimlrepo/__pycache__
-src/ucimlrepo.egg-info
-src/ucimlrepo/test.py
-dist
-build
+venv
